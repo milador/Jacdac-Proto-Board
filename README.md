@@ -1,5 +1,5 @@
 # Jacdac-Proto-Board
-A protoboard for Jacdac plug-and-play for microcontrollers
+A protoboard for Jacdac plug-and-play microcontrollers
 
 The goal of this project ia to create a custom protoboard with built-in support for Jacdac plug-and-play for microcontrollers. This custom protoboard allows the makers to prototype their ideas for Jacdac ecosystem.
 
