@@ -18,15 +18,15 @@ The goal of this project ia to create a custom protoboard with built-in support 
 
 All the EAGLE PCB design files and gerber files are available and can be downloaded using the following link:
 
-<a href="https://...">EAGLE Design files</a>
+<a href="https://github.com/milador/Jacdac-Proto-Board/tree/main/Hardware/PCB/Eagle">EAGLE Design files</a>
 
-<a href="https://...">Gerber files</a>
+<a href="https://github.com/milador/Jacdac-Proto-Board/blob/main/Hardware/PCB/Gerbers/Jacdac_Proto_Board.zip">Gerber files</a>
 
 ### 3D Model of the Printed Circuit Board Design
 
 The 3D Model of protoboard is available in STL format for 3D printing before PCB fabrication and can be downloaded using the following link:
 
-<a href="https://...">STL file</a>
+<a href="https://github.com/milador/Jacdac-Proto-Board/blob/main/Hardware/3D-Model/Jacdac_Proto_Board_3D_Model.stl">STL file</a>
 
 ## Images
 
